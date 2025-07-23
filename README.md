@@ -34,7 +34,9 @@ This project builds a forecasting model to predict weekly sales quantities for a
 
 **Monthly Accuracy** is calculated using:
 
-Monthly Accuracy = 1 - (Σ |ŷ - y|) / (Σ y)
+$$
+\text{Monthly Accuracy} = 1 - \frac{\sum |\hat{y} - y|}{\sum y}
+$$
 
 
 ---
