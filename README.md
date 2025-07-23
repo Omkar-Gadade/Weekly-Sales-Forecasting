@@ -26,8 +26,7 @@ This project builds a forecasting model to predict weekly sales quantities for a
 ## 📈 Forecasting Models Used
 
 - `Prophet` – time series modeling
-- `ARIMA` – statistical univariate forecasting
-- `XGBoost` – tree-based ML using time features
+
 
 ---
 
