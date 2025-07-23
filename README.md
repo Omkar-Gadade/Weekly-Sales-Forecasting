@@ -17,7 +17,16 @@ This project builds a forecasting model to predict weekly sales quantities for a
 
 ## 🗂 Folder Structure
 
-```Weekly-Sales-Forecasting/ ├── data/ ├── Final_Models (pkl_files)/ ├── Forecast output (csv_files)/ ├── eda_notebook.ipynb ├── forecasting_modelling.ipynb ├── requirements.txt └── README.md ```
+```
+Weekly-Sales-Forecasting/ 
+├── data/
+├── Final_Models (pkl_files)/
+├── Forecast output (csv_files)/
+├── eda_notebook.ipynb
+├── forecasting_modeling.ipynb
+├── requirements.txt
+└── README.md
+```
 
 
 
