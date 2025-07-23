@@ -9,7 +9,7 @@ This project builds a forecasting model to predict weekly sales quantities for a
 ## 📌 Tasks Covered
 
 - Exploratory Data Analysis (EDA)
-- Time Series Forecasting (using Prophet, ARIMA, and XGBoost)
+- Time Series Forecasting (using Prophet)
 - Validation on June–August 2024
 - Final Forecast Generation for Sep–Nov 2024
 
@@ -17,7 +17,7 @@ This project builds a forecasting model to predict weekly sales quantities for a
 
 ## 🗂 Folder Structure
 
-```forecasting-assignment/ ├── data/ ├── models/ ├── output/ ├── eda_notebook.ipynb ├── forecasting_modeling.ipynb ├── requirements.txt └── README.md ```
+```Weekly-Sales-Forecasting/ ├── data/ ├── Final_Models (pkl_files)/ ├── Forecast output (csv_files)/ ├── eda_notebook.ipynb ├── forecasting_modelling.ipynb ├── requirements.txt └── README.md ```
 
 
 
@@ -47,7 +47,7 @@ To recreate this project:
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/Weekly-Sales-Forecasting.git
+git clone https://github.com/Omkar-Gadade/Weekly-Sales-Forecasting.git
 cd Weekly-Sales-Forecasting
 
 # Create virtual environment 
