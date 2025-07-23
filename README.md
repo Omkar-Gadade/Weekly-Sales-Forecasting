@@ -21,30 +21,30 @@ This project builds a forecasting model to predict weekly sales quantities for a
 Weekly-Sales-Forecasting/
 │
 ├── data/
-│   └── Assessment-2-Associate-DS(in).csv                # Raw input dataset
+│   └── Assessment-2-Associate-DS(in).csv                 # Raw input dataset
 │
 ├── Final_Models (pkl_files)/
-│   ├── prophet_bestmodel_Serial_no1.pkl                # Trained Prophet model for Serial No. 1
-│   ├── prophet_bestmodel_Serial_no2.pkl                # Trained Prophet model for Serial No. 2
-│   ├── prophet_bestmodel_Serial_no3.pkl                # Trained Prophet model for Serial No. 3
-│   ├── prophet_bestmodel_Serial_no4.pkl                # Trained Prophet model for Serial No. 4
-│   └── prophet_bestmodel_Serial_no5.pkl                # Trained Prophet model for Serial No. 5
-│
+│   ├── prophet_bestmodel_Serial_no1.pkl                  # Trained Prophet model for Serial No. 1
+│   ├── prophet_bestmodel_Serial_no2.pkl                  # Trained Prophet model for Serial No. 2
+│   ├── prophet_bestmodel_Serial_no3.pkl                  # Trained Prophet model for Serial No. 3
+│   ├── prophet_bestmodel_Serial_no4.pkl                  # Trained Prophet model for Serial No. 4
+│   └── prophet_bestmodel_Serial_no5.pkl                  # Trained Prophet model for Serial No. 5
+│ 
 ├── Forecast output (csv_files)/
-│   ├── forecast_sep_oct_nov_2024_Model_Serial_No_1.csv  # Forecasted sales for Serial No. 1 (Sep-Nov 2024)
-│   ├── forecast_sep_oct_nov_2024_Model_Serial_No_2.csv  # Forecasted sales for Serial No. 2 (Sep-Nov 2024)
-│   ├── forecast_sep_oct_nov_2024_Model_Serial_No_3.csv  # Forecasted sales for Serial No. 3 (Sep-Nov 2024)
-│   ├── forecast_sep_oct_nov_2024_Model_Serial_No_4.csv  # Forecasted sales for Serial No. 4 (Sep-Nov 2024)
-│   └── forecast_sep_oct_nov_2024_Model_Serial_No_5.csv  # Forecasted sales for Serial No. 5 (Sep-Nov 2024)
+│   ├── forecast_sep_oct_nov_2024_Model_Serial_No_1.csv   # Forecasted sales for Serial No. 1 (Sep-Nov 2024)
+│   ├── forecast_sep_oct_nov_2024_Model_Serial_No_2.csv   # Forecasted sales for Serial No. 2 (Sep-Nov 2024)
+│   ├── forecast_sep_oct_nov_2024_Model_Serial_No_3.csv   # Forecasted sales for Serial No. 3 (Sep-Nov 2024)
+│   ├── forecast_sep_oct_nov_2024_Model_Serial_No_4.csv   # Forecasted sales for Serial No. 4 (Sep-Nov 2024)
+│   └── forecast_sep_oct_nov_2024_Model_Serial_No_5.csv   # Forecasted sales for Serial No. 5 (Sep-Nov 2024)
 │
-├── venv/                                               # Virtual environment
+├── venv/                                                 # Virtual environment
 │
-├── eda_notebook.ipynb                                  # Exploratory Data Analysis notebook
-├── forecasting_modeling.ipynb                          # Main modeling and forecasting notebook
+├── eda_notebook.ipynb                                    # Exploratory Data Analysis notebook
+├── forecasting_modeling.ipynb                            # Main modeling and forecasting notebook
 │
-├── requirements.txt                                    # List of required Python packages
+├── requirements.txt                                      # List of required Python packages
 ├── LICENSE
-└── README.md                                           # This file
+└── README.md                                          
 
 ```
 
